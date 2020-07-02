@@ -30,5 +30,3 @@ jobs:
         ls
         # push y
         echo y | okteto push
-        
-
